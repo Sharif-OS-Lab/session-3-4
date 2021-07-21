@@ -51,8 +51,6 @@ Student No. of member 2: `[FILL HERE]`
 ### Section 3.3.4
 
 - [ ] Write (in English or Persian) about each file in /proc/ directory:
- meminfo/version/uptime/stat/mount/net/loadavg/
- interrupts/ioports/filesystem/cpuinfo/cmdline
     1. `[FILL HERE with description about meminfo]`
     1. `[FILL HERE with description about version]`
     1. `[FILL HERE with description about uptime]`

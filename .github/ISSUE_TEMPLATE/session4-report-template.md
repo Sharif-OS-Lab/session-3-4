@@ -69,3 +69,9 @@ Student No. of member 2: `[FILL HERE]`
 - [ ] Program which forks and executues `ls` command
     1. [ ] `[FILL HERE with your source code]`
     1. [ ] `[FILL HERE an image from execution of your program]`
+
+## Source Code Submission
+
+please submit all your codes in a zip file
+
+ - [ ] `Zip File HERE`

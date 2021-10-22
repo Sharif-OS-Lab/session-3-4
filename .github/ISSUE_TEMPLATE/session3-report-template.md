@@ -3,7 +3,7 @@ name: فرم گزارش آزمایش سوم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
 title: Session 3 Report
 labels: documentation
-assignees: fshahinfar1
+assignees: amirhossein1376
 
 ---
 

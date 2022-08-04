@@ -43,10 +43,10 @@ Student No. of member 2: `[FILL HERE]`
     1. `[FILL HERE with description about root]`
 
 - [ ] Place your script for shwoing PID of running porcesses and their name here:
-    - [ ] `[FILL HERE with you script]`
+    - [ ] `[FILL HERE with your script]`
 
 - [ ] Place your source code for a program that shows details of a program by receiving PID:
-    - [ ] `[FILL HERE with you source code]`
+    - [ ] `[FILL HERE with your source code]`
 
 ### Section 3.3.4
 
@@ -65,20 +65,20 @@ Student No. of member 2: `[FILL HERE]`
     1. `[FILL HERE with description about cmdline]`
 
 - [ ] Place your source code for a program that shows details of processor:
-    - [ ] `[FILL HERE with you source code]`
+    - [ ] `[FILL HERE with your source code]`
 
 - [ ] Place your source code for a program that shows details of memory management sub-system:
-    - [ ] `[FILL HERE with you source code]`
+    - [ ] `[FILL HERE with your source code]`
 
 - [ ] Write your description about five important files at /proc/sys/kernel:
-    - [ ] `[FILL HERE with you descript for 1st file]`
-    - [ ] `[FILL HERE with you descript for 2nd file]`
-    - [ ] `[FILL HERE with you descript for 3rd file]`
-    - [ ] `[FILL HERE with you descript for 4th file]`
-    - [ ] `[FILL HERE with you descript for 5th file]`
+    - [ ] `[FILL HERE with your descript for 1st file]`
+    - [ ] `[FILL HERE with your descript for 2nd file]`
+    - [ ] `[FILL HERE with your descript for 3rd file]`
+    - [ ] `[FILL HERE with your descript for 4th file]`
+    - [ ] `[FILL HERE with your descript for 5th file]`
 
 - [ ] Write your description about /proc/self file
-    - [ ] `[FILL HERE with you description]`
+    - [ ] `[FILL HERE with your description]`
 
 
 ## Source Code Submission

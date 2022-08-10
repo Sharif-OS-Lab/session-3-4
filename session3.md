@@ -83,9 +83,17 @@
 استفاده کنید.
 
 نام فایل‌ها که باید بررسی شوند:
- cmdline/ environ/ stat/ status/ statm/ exe
- نام directory ها که باید بررسی شوند:
- cwd/ root/
+
+ + `cmdline`
+ + `environ`
+ + `stat`
+ + `status`
+ + `statm`
+ + `cwd` 
+ + `exe` 
+ + `root`
+ 
+
  1. یک اسکریپت ساده بنویسید که لیست شماره‌ی پردازه‌های در
  حال اجرا به همراه نام آن‌ها را در خروجی چاپ کند.
  
@@ -116,8 +124,20 @@
  
  لیست مواردی که باید بررسی شود:
  
- meminfo/version/uptime/stat/mounts/net/loadavg/
- interrupts/ioports/filesystems/cpuinfo/cmdline
+
+ + `meminfo`
+ + `version`
+ + `uptime`
+ + `stat`
+ + `mount`
+ + `net`
+ + `loadavg`
+ + `interrupts`
+ + `oports`
+ + `filesystem`
+ + `cpuinfo`
+ + `cmdline`
+
  
  1. برنامه‌ای بنویسید که نام مدل پردازنده، فرکانس آن و 
  مقدار حافظه نهان (Cache Memory) آن را در خروجی چاپ کند.

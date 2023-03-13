@@ -71,14 +71,24 @@ Student No. of member 2: `[FILL HERE]`
     - [ ] `[FILL HERE with your source code]`
 
 - [ ] Write your description about five important files at /proc/sys/kernel:
-    - [ ] `[FILL HERE with your descript for 1st file]`
-    - [ ] `[FILL HERE with your descript for 2nd file]`
-    - [ ] `[FILL HERE with your descript for 3rd file]`
-    - [ ] `[FILL HERE with your descript for 4th file]`
-    - [ ] `[FILL HERE with your descript for 5th file]`
+    - [ ] `[hostname: This file contains the hostname of the system. It can be used to view or change the hostname of the system.]`
+    - [ ] `[osrelease: This file contains the version number of the Linux kernel that is currently running on the system]`
+    - [ ] `[panic: This file controls what the kernel does when it encounters a critical error that could lead to a system crash. By default, the kernel will reboot the system if it encounters a critical error. However, this file can be used to change the behavior and set it to panic, halt, or ignore the error.]`
+    - [ ] `[core_pattern: This file specifies the name and location of the core dump file that is generated when a program crashes. By default, the core dump file is named core and is located in the current working directory. However, this file can be used to change the name and location of the core dump file.]`
+    - [ ] `[sysrq: This file controls the behavior of the Magic SysRq key. The Magic SysRq key is a key combination that can be used to send various commands directly to the kernel, even if the system is unresponsive or in a hung state. The contents of this file can be used to enable or disable certain commands that are available through the Magic SysRq key.]`
 
 - [ ] Write your description about /proc/self file
-    - [ ] `[FILL HERE with your description]`
+    - [ ] `[In the /proc directory of a Linux system, the self directory is a symbolic link to the directory corresponding to the currently executing process. It contains information about the currently running process in the form of various files.
+
+When a process reads or writes to a file in the /proc/self directory, it is actually reading or writing to the corresponding file in its own /proc directory. This means that a process can use the self directory to access information about itself or to modify its own behavior.
+
+For example, a process can use the /proc/self/cmdline file to get the command line arguments that were used to start the process. This can be useful for debugging or for writing scripts that need to know how a particular process was started.
+
+Similarly, a process can use the /proc/self/exe file to get the full path of its own executable file. This can be useful for determining the location of a binary file that is currently running.
+
+The /proc/self directory can also be used to modify the behavior of the current process. For example, a process can use the /proc/self/oom_adj file to adjust its Out Of Memory (OOM) score, which determines how likely it is to be killed by the OOM killer when the system is running out of memory.
+
+Overall, the /proc/self directory provides a way for a process to access information about itself and to modify its own behavior, which can be useful in a variety of contexts.]`
 
 
 ## Source Code Submission

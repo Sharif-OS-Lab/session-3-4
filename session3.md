@@ -58,7 +58,7 @@
 این شاخه را چاپ کنید. هر کدام از این فایل‌ها چه چیزی را
 نشان می‌دهد؟
 
-1. یک برنامه ساده به زبان C یا CPP بنویسید که به کمک
+1. یک برنامه ی ساده به زبان C یا CPP بنویسید که به کمک
 توابع <fstream> فایل /proc/version را خوانده و
 محتویات آن را در فایلی با نام Linux Version.txt بنویسد.
 همان‌طور که مشاهده خواهید کرد، به کمک توابع کار با فایل
@@ -129,12 +129,12 @@
  + `version`
  + `uptime`
  + `stat`
- + `mount`
+ + `mounts`
  + `net`
  + `loadavg`
  + `interrupts`
  + `oports`
- + `filesystem`
+ + `filesystems`
  + `cpuinfo`
  + `cmdline`
 
